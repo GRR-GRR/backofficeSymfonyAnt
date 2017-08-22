@@ -1,0 +1,7 @@
+home_homepage:
+    path:     /
+    defaults: { _controller: HomeBundle:Default:index }
+
+_message:
+    path:     hello
+    defaults: { _controller: HomeBundle:RandomMessages:Message }

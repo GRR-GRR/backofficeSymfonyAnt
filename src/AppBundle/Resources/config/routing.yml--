@@ -1,0 +1,4 @@
+
+_radom_message:
+    path:     /RadomMessage
+    defaults: { _controller: AppBundle:WelcomeRandomMessage:RadomMessage }
